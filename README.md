@@ -1,3 +1,3 @@
-# Cocoon gem example app
+#Gerenciador de Daily
 
-This app uses the [*Cocoon gem*](https://rubygems.org/gems/cocoon) to implement nested attributes to any model.
+
